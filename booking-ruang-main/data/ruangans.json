@@ -1,0 +1,131 @@
+{
+    "2025-01-03_07:00": {
+        "A10.01.01": {
+            "status": "Booked",
+            "bookedBy": "Prof. Mahmud",
+            "duration": 4,
+            "endTime": "11:00",
+            "matkul": "Statistika"
+        },
+        "A10.01.03": {
+            "status": "Booked",
+            "bookedBy": "Ali Rahman",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Pemrograman Web"
+        },
+        "A10.01.04": {
+            "status": "Booked",
+            "bookedBy": "Bahrrul Anam",
+            "duration": 2,
+            "endTime": "09:00",
+            "matkul": "Interaksi Manusia Hewan"
+        },
+        "A10.01.02": {
+            "status": "Booked",
+            "bookedBy": "Aditya Hilmi",
+            "duration": 2,
+            "endTime": "09:00",
+            "matkul": "Sistem Operasi"
+        },
+        "A10.01.07": {
+            "status": "Booked",
+            "bookedBy": "Adita Denis",
+            "duration": 3,
+            "endTime": "10:00",
+            "matkul": "Pemrograman Mobile"
+        },
+        "A10.01.05": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Pemrograman Web",
+            "type": "Regular"
+        }
+    },
+    "2024-12-22_08:00": {
+        "A10.01.04": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 2,
+            "endTime": "09:00"
+        }
+    },
+    "2025-01-03_08:00": {
+        "A10.01.02": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 1,
+            "endTime": "09:00",
+            "matkul": "Pemrograman Web",
+            "type": "Regular"
+        },
+        "A10.01.07": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 3,
+            "endTime": "10:00",
+            "matkul": "Pemrograman Mobile"
+        }
+    },
+    "2025-01-03_09:00": {
+        "A10.01.07": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 3,
+            "endTime": "10:00",
+            "matkul": "Pemrograman Mobile"
+        }
+    },
+    "2025-01-02_07:00": {
+        "A10.01.05": {
+            "status": "Booked",
+            "bookedBy": "Aditya Prapanca",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Pemrograman Web",
+            "type": "Regular"
+        },
+        "A10.01.01": {
+            "status": "Booked",
+            "bookedBy": "Agus Prihanto",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Jarkom Web",
+            "type": "Regular"
+        },
+        "A10.01.02": {
+            "status": "Booked",
+            "bookedBy": "Agus Prihanto",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Jarkom Web",
+            "type": "Regular"
+        },
+        "A10.01.03": {
+            "status": "Booked",
+            "bookedBy": "Agus Prihanto",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Jarkom Web",
+            "type": "Regular"
+        },
+        "A10.01.04": {
+            "status": "Booked",
+            "bookedBy": "Agus Prihanto",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Jarkom Web",
+            "type": "Regular"
+        },
+        "A10.01.06": {
+            "status": "Booked",
+            "bookedBy": "Agus Prihanto",
+            "duration": 1,
+            "endTime": "08:00",
+            "matkul": "Jarkom Web",
+            "type": "Regular"
+        }
+    }
+}
